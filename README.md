@@ -10,7 +10,7 @@ Survey elements like questions are returned in the logical order defined by the 
 
 ## Quick Example
 
-```
+```python
 from pyqsf import QualtricsSurveyFile
 
 qsf = QualtricsSurveyFile("<path-to-qsf-file>")
