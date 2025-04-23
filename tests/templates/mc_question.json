@@ -1,0 +1,269 @@
+{
+  "SurveyID": "SV_6qVf795EsmVc7B4",
+  "Element": "SQ",
+  "PrimaryAttribute": "QID1",
+  "SecondaryAttribute": "In regards to\u00a0our product, how important are the following?",
+  "TertiaryAttribute": null,
+  "Payload": {
+    "AnswerOrder": [1, 2, 3, 4, 5],
+    "Answers": {
+      "1": { "Display": "Extremely important" },
+      "2": { "Display": "Very important" },
+      "3": { "Display": "Moderately important" },
+      "4": { "Display": "Slightly important" },
+      "5": { "Display": "Not at all important" }
+    },
+    "ChoiceDataExportTags": false,
+    "ChoiceOrder": ["1", "2", "3"],
+    "Choices": {
+      "1": { "Display": "product feature 1" },
+      "2": { "Display": "product feature 2" },
+      "3": { "Display": "product feature 3" }
+    },
+    "Configuration": {
+      "ChoiceColumnWidth": 25,
+      "MobileFirst": true,
+      "QuestionDescriptionOption": "UseText",
+      "RepeatHeaders": "none",
+      "TextPosition": "inline",
+      "WhiteSpace": "OFF"
+    },
+    "DataExportTag": "Q2",
+    "DataVisibility": { "Hidden": false, "Private": false },
+    "DefaultChoices": false,
+    "GradingData": [],
+    "Language": {
+      "DE": {
+        "Answers": {
+          "1": { "Display": "\u00c4u\u00dferst wichtig" },
+          "2": { "Display": "Sehr wichtig" },
+          "3": { "Display": "Teilweise wichtig" },
+          "4": { "Display": "Eher wichtig" },
+          "5": { "Display": "Unwichtig" }
+        },
+        "Choices": {
+          "1": { "Display": "Produktmerkmal 1" },
+          "2": { "Display": "Produktmerkmal 2" },
+          "3": { "Display": "Produktmerkmal 3" }
+        },
+        "QuestionText": "In Bezug auf\u00a0unser <b>Produkt</b>, wie <b>wichtig<b> sind Ihnen die folgenden Merkmale?"
+      },
+      "EN-GB": {
+        "Answers": {
+          "1": { "Display": "Extremely important" },
+          "2": { "Display": "Very important" },
+          "3": { "Display": "Moderately important" },
+          "4": { "Display": "Slightly important" },
+          "5": { "Display": "Not at all important" }
+        },
+        "Choices": {
+          "1": { "Display": "product feature 1" },
+          "2": { "Display": "product feature 2" },
+          "3": { "Display": "product feature 3" }
+        },
+        "QuestionText": "In regards to&nbsp;<strong>our product</strong>, how <strong>important<strong> </strong></strong>are the following?"
+      },
+      "ES": {
+        "Answers": {
+          "1": { "Display": "Extremadamente importantes" },
+          "2": { "Display": "Muy importantes" },
+          "3": { "Display": "Moderadamente importantes" },
+          "4": { "Display": "Ligeramente importantes" },
+          "5": { "Display": "Para nada importantes" }
+        },
+        "Choices": {
+          "1": { "Display": "caracter\u00edstica de producto\u00a01" },
+          "2": { "Display": "caracter\u00edstica de producto\u00a02" },
+          "3": { "Display": "caracter\u00edstica de producto\u00a03" }
+        },
+        "QuestionText": "En lo que respecta a <b>nuestro producto</b>, \u00bfqu\u00e9 tan <b>importantes<b> son los siguientes aspectos?"
+      },
+      "ES-ES": {
+        "Answers": {
+          "1": { "Display": "Extremadamente importante" },
+          "2": { "Display": "Muy importante" },
+          "3": { "Display": "Bastante importante" },
+          "4": { "Display": "Poco importante" },
+          "5": { "Display": "Nada importante" }
+        },
+        "Choices": {
+          "1": { "Display": "Funci\u00f3n del producto\u00a01" },
+          "2": { "Display": "Funci\u00f3n del producto\u00a02" },
+          "3": { "Display": "Funci\u00f3n del producto\u00a03" }
+        },
+        "QuestionText": "En lo que respecta a\u00a0<b>nuestro producto</b>, \u00bfqu\u00e9 <b>importancia<b> le da a las siguientes funciones?"
+      },
+      "FI": {
+        "Answers": {
+          "1": { "Display": "Todella t\u00e4rke\u00e4" },
+          "2": { "Display": "Eritt\u00e4in t\u00e4rke\u00e4" },
+          "3": { "Display": "Kohtalaisen t\u00e4rke\u00e4" },
+          "4": { "Display": "Aika t\u00e4rke\u00e4" },
+          "5": { "Display": "Ei lainkaan t\u00e4rke\u00e4" }
+        },
+        "Choices": {
+          "1": { "Display": "tuotteen ominaisuus 1" },
+          "2": { "Display": "tuotteen ominaisuus 2" },
+          "3": { "Display": "tuotteen ominaisuus 3" }
+        },
+        "QuestionText": "Kun ajattelet <b>tuotettamme</b>, kuinka <b>t\u00e4rkeit\u00e4<b> seuraavat ovat?"
+      },
+      "FR": {
+        "Answers": {
+          "1": { "Display": "Vraiment importante" },
+          "2": { "Display": "Tr\u00e8s important" },
+          "3": { "Display": "Assez important" },
+          "4": { "Display": "Plut\u00f4t important" },
+          "5": { "Display": "Pas du tout importante" }
+        },
+        "Choices": {
+          "1": { "Display": "caract\u00e9ristique du produit 1" },
+          "2": { "Display": "caract\u00e9ristique du produit 2" },
+          "3": { "Display": "caract\u00e9ristique du produit 3" }
+        },
+        "QuestionText": "En ce qui concerne\u00a0<b>notre produit</b>, quelle est <b>l\u2019importance<b> des \u00e9l\u00e9ments suivants\u00a0?"
+      },
+      "IT": {
+        "Answers": {
+          "1": { "Display": "Estremamente importanti" },
+          "2": { "Display": "Molto importanti" },
+          "3": { "Display": "Importanti" },
+          "4": { "Display": "Poco importanti" },
+          "5": { "Display": "Non importanti" }
+        },
+        "Choices": {
+          "1": { "Display": "caratteristica del prodotto 1" },
+          "2": { "Display": "caratteristica del prodotto 2" },
+          "3": { "Display": "caratteristica del prodotto 3" }
+        },
+        "QuestionText": "Riguardo al\u00a0<b>nostro prodotto</b>, quanto <b>importanti <b>sono i seguenti?"
+      },
+      "JA": {
+        "Answers": {
+          "1": { "Display": "\u975e\u5e38\u306b\u91cd\u8981" },
+          "2": { "Display": "\u3068\u3066\u3082\u91cd\u8981" },
+          "3": { "Display": "\u307e\u3042\u307e\u3042\u91cd\u8981" },
+          "4": { "Display": "\u3084\u3084\u91cd\u8981" },
+          "5": {
+            "Display": "\u307e\u3063\u305f\u304f\u91cd\u8981\u3067\u306f\u306a\u3044"
+          }
+        },
+        "Choices": {
+          "1": { "Display": "\u88fd\u54c1\u6a5f\u80fd1" },
+          "2": { "Display": "\u88fd\u54c1\u6a5f\u80fd2" },
+          "3": { "Display": "\u88fd\u54c1\u6a5f\u80fd3" }
+        },
+        "QuestionText": "\u5f53\u793e\u306e<b>\u88fd\u54c1</b>\u306b\u304a\u3044\u3066\u3001\u6b21\u306e\u70b9\u306f\u3069\u306e\u7a0b\u5ea6<b>\u91cd\u8981<b>\u3067\u3059\u304b\uff1f"
+      },
+      "KO": {
+        "Answers": {
+          "1": { "Display": "\uadf9\ud788 \uc911\uc694\ud568" },
+          "2": { "Display": "\ub9e4\uc6b0 \uc911\uc694\ud568" },
+          "3": {
+            "Display": "\uc5b4\ub290 \uc815\ub3c4 \uc911\uc694\ud568"
+          },
+          "4": { "Display": "\uc57d\uac04 \uc911\uc694\ud568" },
+          "5": {
+            "Display": "\uc804\ud600 \uc911\uc694\ud558\uc9c0 \uc54a\uc74c"
+          }
+        },
+        "Choices": {
+          "1": { "Display": "\uc81c\ud488 \uae30\ub2a5 1" },
+          "2": { "Display": "\uc81c\ud488 \uae30\ub2a5 2" },
+          "3": { "Display": "\uc81c\ud488 \uae30\ub2a5 3" }
+        },
+        "QuestionText": "<b>\ub2f9\uc0ac\uc758 </b>\uc81c\ud488\uacfc \uad00\ub828\ud558\uc5ec \ub2e4\uc74c\uc740 \uc5bc\ub9c8\ub098 <b>\uc911\uc694\ud569\ub2c8\uae4c<b>?"
+      },
+      "NL": {
+        "Answers": {
+          "1": { "Display": "Buitengewoon belangrijk" },
+          "2": { "Display": "Zeer belangrijk" },
+          "3": { "Display": "Redelijk belangrijk" },
+          "4": { "Display": "Enigszins belangrijk" },
+          "5": { "Display": "Helemaal niet belangrijk" }
+        },
+        "Choices": {
+          "1": { "Display": "productfunctie 1" },
+          "2": { "Display": "productfunctie 2" },
+          "3": { "Display": "productfunctie 3" }
+        },
+        "QuestionText": "Hoe\u00a0<b>belangrijk</b> zijn de volgende zaken met betrekking tot\u00a0<b>ons product<b>?"
+      },
+      "PT": {
+        "Answers": {
+          "1": { "Display": "Extremamente importante" },
+          "2": { "Display": "Muito importante" },
+          "3": { "Display": "Relativamente importante" },
+          "4": { "Display": "Ligeiramente importante" },
+          "5": { "Display": "Sem qualquer import\u00e2ncia" }
+        },
+        "Choices": {
+          "1": { "Display": "caracter\u00edstica 1 do produto" },
+          "2": { "Display": "caracter\u00edstica 2 do produto" },
+          "3": { "Display": "caracter\u00edstica 3 do produto" }
+        },
+        "QuestionText": "Em rela\u00e7\u00e3o ao\u00a0<b>nosso produto</b>, at\u00e9 que ponto \u00e9 que os seguintes aspetos s\u00e3o <b>importantes<b>?"
+      },
+      "PT-BR": {
+        "Answers": {
+          "1": { "Display": "Extremamente importante" },
+          "2": { "Display": "Muito importante" },
+          "3": { "Display": "Moderadamente importante" },
+          "4": { "Display": "Levemente importante" },
+          "5": { "Display": "Sem qualquer import\u00e2ncia" }
+        },
+        "Choices": {
+          "1": { "Display": "recurso do produto 1" },
+          "2": { "Display": "recurso do produto 2" },
+          "3": { "Display": "recurso do produto 3" }
+        },
+        "QuestionText": "Em rela\u00e7\u00e3o a\u00a0<b>nosso produto</b>, qual a <b>import\u00e2ncia<b> das op\u00e7\u00f5es a seguir?"
+      },
+      "ZH-S": {
+        "Answers": {
+          "1": { "Display": "\u6781\u5176\u91cd\u8981" },
+          "2": { "Display": "\u5f88\u91cd\u8981" },
+          "3": { "Display": "\u4e00\u822c\u91cd\u8981" },
+          "4": { "Display": "\u6709\u70b9\u91cd\u8981" },
+          "5": { "Display": "\u4e00\u70b9\u4e5f\u4e0d\u91cd\u8981" }
+        },
+        "Choices": {
+          "1": { "Display": "\u4ea7\u54c1\u529f\u80fd 1" },
+          "2": { "Display": "\u4ea7\u54c1\u529f\u80fd 2" },
+          "3": { "Display": "\u4ea7\u54c1\u529f\u80fd 3" }
+        },
+        "QuestionText": "\u5c31<b>\u6211\u4eec\u7684\u4ea7\u54c1</b>\u800c\u8a00\uff0c\u4ee5\u4e0b\u65b9\u9762<b>\u91cd\u8981\u6027<b>\u5982\u4f55\uff1f"
+      },
+      "ZH-T": {
+        "Answers": {
+          "1": { "Display": "\u6975\u5176\u91cd\u8981" },
+          "2": { "Display": "\u975e\u5e38\u91cd\u8981" },
+          "3": { "Display": "\u4e2d\u5ea6\u91cd\u8981" },
+          "4": { "Display": "\u7565\u5fae\u91cd\u8981" },
+          "5": { "Display": "\u4e00\u9ede\u90fd\u4e0d\u91cd\u8981" }
+        },
+        "Choices": {
+          "1": { "Display": "\u7522\u54c1\u529f\u80fd 1" },
+          "2": { "Display": "\u7522\u54c1\u529f\u80fd 2" },
+          "3": { "Display": "\u7522\u54c1\u529f\u80fd 3" }
+        },
+        "QuestionText": "\u5c0d\u65bc<b>\u6211\u5011\u7684\u7522\u54c1</b>\uff0c\u4ee5\u4e0b\u5404\u9805\u7684<b>\u91cd\u8981\u7a0b\u5ea6<b>\u5982\u4f55\uff1f"
+      }
+    },
+    "NextAnswerId": 6,
+    "NextChoiceId": 6,
+    "QuestionDescription": "In regards to\u00a0our product, how important are the following?",
+    "QuestionID": "QID1",
+    "QuestionText": "In regards to&nbsp;<strong>our product</strong>, how <strong>important<strong> </strong></strong>are the following?",
+    "QuestionType": "Matrix",
+    "Selector": "Likert",
+    "SubSelector": "SingleAnswer",
+    "Validation": {
+      "Settings": {
+        "ForceResponse": "OFF",
+        "ForceResponseType": "ON",
+        "Type": "None"
+      }
+    }
+  }
+}

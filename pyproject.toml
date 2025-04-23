@@ -1,0 +1,27 @@
+[project]
+name = "pyqsf"
+version = "0.1.0"
+description = "Simple Python wrapper for Qualtrics Survey File (.qsf)"
+authors = ["Vladimir Sivcevic <vladsiv@protonmail.com>"]
+maintainers = ["Vladimir Sivcevic <vladsiv@protonmail.com>"]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = ["QSF", "Survey", "Qualtrics"]
+include = ["LICENSE"]
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+    "mypy>=1.15.0",
+    "pylint>=3.3.6",
+    "pytest>=8.3.5",
+    "pytest-cov>=6.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_functions = "test_*"
+addopts = "--cov=pyqsf --cov-report html:cov_html --cov-report term --cov-fail-under=100"

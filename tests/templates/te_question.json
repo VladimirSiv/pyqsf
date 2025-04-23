@@ -1,0 +1,85 @@
+{
+  "SurveyID": "SV_123abctest123",
+  "Element": "SQ",
+  "PrimaryAttribute": "QID11",
+  "SecondaryAttribute": "Thinking in US dollars, at what price would you begin to think the item is so inexpensive that yo...",
+  "TertiaryAttribute": null,
+  "Payload": {
+    "AnalysisType": { "Type": "TextEntry" },
+    "ChoiceOrder": [],
+    "Choices": [],
+    "Configuration": {
+      "InputHeight": 29,
+      "InputWidth": 100,
+      "QuestionDescriptionOption": "UseText"
+    },
+    "DataExportTag": "Q4",
+    "DataVisibility": { "Hidden": false, "Private": false },
+    "Language": {
+      "DE": {
+        "QuestionText": "Welchen Preis (in Euro) erachten Sie f\u00fcr den Artikel als <b>zu g\u00fcnstig</b> und w\u00fcrden ihn deshalb nicht kaufen, da Sie mangelhafte Qualit\u00e4t bef\u00fcrchten?"
+      },
+      "EN-GB": {
+        "QuestionText": "Thinking in US dollars, at what price would you begin to think the item is <b>so inexpensive</b> that you would not buy it because it would be poor quality?&nbsp;&nbsp;"
+      },
+      "ES": {
+        "QuestionText": "Pensando en d\u00f3lares estadounidenses, \u00bfa partir de qu\u00e9 precio creer\u00eda usted que el art\u00edculo es <b>tan barato</b> que no lo comprar\u00eda porque parece de mala calidad?"
+      },
+      "ES-ES": {
+        "QuestionText": "En d\u00f3lares estadounidenses (USD), \u00bfa partir de qu\u00e9 precio pensar\u00eda que el art\u00edculo es <b>tan barato</b> que no lo comprar\u00eda porque ser\u00eda de mala calidad?"
+      },
+      "FI": {
+        "QuestionText": "Mink\u00e4 hintaisena (USD) tuote olisi mielest\u00e4si <b>niin halpa</b>, ett\u00e4 j\u00e4tt\u00e4isit sen ostamatta heikon laadun vuoksi?"
+      },
+      "FR": {
+        "QuestionText": "\u00c0 quel prix (en USD) commenceriez-vous \u00e0 penser que l\u2019article est <b>si peu cher</b> que vous ne l\u2019ach\u00e8teriez pas en pensant qu'il serait s\u00fbrement de mauvaise qualit\u00e9\u00a0?"
+      },
+      "IT": {
+        "QuestionText": "Pensando in dollari USA, a quale prezzo inizieresti a pensare che l'articolo \u00e8 <b>cos\u00ec economico</b> che non lo compreresti perch\u00e9 potrebbe essere di scarsa qualit\u00e0?"
+      },
+      "JA": {
+        "QuestionText": "<b>\u5b89\u3059\u304e</b>\u308b\u305f\u3081\u3001\u54c1\u8cea\u306b\u5bfe\u3059\u308b\u61f8\u5ff5\u3092\u304a\u307c\u3048\u3001\u8cfc\u5165\u3092\u3084\u3081\u3088\u3046\u3068\u8003\u3048\u59cb\u3081\u308b\u4fa1\u683c\u3092\u304a\u7b54\u3048\u304f\u3060\u3055\u3044\uff08\u7c73\u56fd\u30c9\u30eb\uff09\u3002"
+      },
+      "KO": {
+        "QuestionText": "\ubbf8\uad6d \ub2ec\ub7ec\ub97c \uae30\uc900\uc73c\ub85c \uace0\ub824\ud560 \ub54c \uc774 \ud56d\ubaa9\uc774 \uc5bc\ub9c8\uc774\uba74 \ud488\uc9c8\uc774 \ub098\uc058\uae30 \ub54c\ubb38\uc5d0 <b>\ub9e4\uc6b0 \uc800\ub834\ud55c \uac83</b>\uc774\ub77c\uace0 \uc0dd\uac01\ud558\uace0 \uad6c\ub9e4\ud558\uc9c0 \uc54a\uc73c\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+      },
+      "NL": {
+        "QuestionText": "Bij welke prijs (in Amerikaanse dollar) zou u gaan vinden dat het artikel <b>zo voordelig</b> is dat u het niet zou kopen omdat de kwaliteit slecht zou zijn?"
+      },
+      "PT": {
+        "QuestionText": "Pensando em d\u00f3lares norte-americanos, a que pre\u00e7o come\u00e7aria a pensar que o item \u00e9 <b>t\u00e3o barato</b> que n\u00e3o o compraria porque seria de baixa qualidade?"
+      },
+      "PT-BR": {
+        "QuestionText": "Pensando em d\u00f3lares, a partir de que pre\u00e7o voc\u00ea come\u00e7aria a pensar que o item \u00e9 <b>t\u00e3o barato</b> que voc\u00ea n\u00e3o compraria porque seria de baixa qualidade?"
+      },
+      "ZH-S": {
+        "QuestionText": "\u591a\u5c11\u4ef7\u683c\uff08\u4ee5\u7f8e\u5143\u8ba1\uff09\u4ee5\u5185\u4f1a\u8ba9\u60a8\u89c9\u5f97\u8be5\u5546\u54c1<b>\u592a\u4fbf\u5b9c</b>\uff0c\u8d28\u91cf\u53ef\u80fd\u4f1a\u5dee\u800c\u4e0d\u4f1a\u8d2d\u4e70\uff1f"
+      },
+      "ZH-T": {
+        "QuestionText": "\u8003\u616e\u5728\u5546\u54c1\u7684\u50f9\u683c\u70ba\u591a\u5c11 (\u7f8e\u5143) \u6642\uff0c\u60a8\u6703\u958b\u59cb\u8a8d\u70ba\u5546\u54c1<b>\u5f88\u4fbf\u5b9c</b>\uff0c\u4ee5\u81f4\u65bc\u6703\u56e0\u5546\u54c1\u54c1\u8cea\u4e0d\u4f73\u800c\u4e0d\u53bb\u8cfc\u8cb7\uff1f"
+      }
+    },
+    "NextAnswerId": 1,
+    "NextChoiceId": 1,
+    "QuestionDescription": "Thinking in US dollars, at what price would you begin to think the item is so inexpensive that yo...",
+    "QuestionID": "QID11",
+    "QuestionText": "Thinking in US dollars, at what price would you begin to think the item is <b>so inexpensive</b> that you would not buy it because it would be poor quality?&nbsp;&nbsp;",
+    "QuestionText_Unsafe": "<br>About what would you expect to pay for a new [Product/Service] like the one described?  (Nearest dollar)\n<style>\n.Skin .TE textarea, .Skin .TE input {\nwidth:15em\n}\n</style>",
+    "QuestionType": "TE",
+    "Randomization": { "Type": "None" },
+    "SearchSource": { "AllowFreeResponse": "false" },
+    "Selector": "SL",
+    "Validation": {
+      "Settings": {
+        "ContentType": "ValidNumber",
+        "ForceResponse": "ON",
+        "ForceResponseType": "ON",
+        "Type": "ContentType",
+        "ValidDateType": "DateWithFormat",
+        "ValidNumber": { "NumDecimals": "2" },
+        "ValidPhoneType": "ValidUSPhone",
+        "ValidZipType": "ValidUSZip"
+      }
+    }
+  }
+}
